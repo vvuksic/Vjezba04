@@ -1,2 +1,3 @@
 Ovo je odlomak teksta u mysql 
 Ovo je drugi odlomak u mysql datoteci
+Ovo je odlomak u feature laravel
